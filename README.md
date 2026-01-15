@@ -4,6 +4,17 @@
     <img src="http://github-readme-stats-neon-mu-82.vercel.app/api/top-langs/?username=abirtasrif&layout=compact" style="width: 287px; height: auto;">
   </div>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+From: 07 January 2026 - To: 14 January 2026
+
+JavaScript       18 mins         ████████▓░░░░░░░░░░░░░░░░   34.44 %
+JSON             18 mins         ████████▒░░░░░░░░░░░░░░░░   33.91 %
+TypeScript       13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.49 %
+GitIgnore file   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+CSS              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+```
+
+<!--END_SECTION:waka-->
 
 </div>
