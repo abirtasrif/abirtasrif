@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=abirtasrif&style=flat-square)
 <div style="display: flex; gap: 5px; width: 100%;">
   <div style="flex: 1; display: flex; align-items: center; justify-content: center;">
     <img src="http://github-summary-cards-ten.vercel.app/api/cards/profile-details?username=abirtasrif&theme=default" style="width: 550px; height: auto;">
@@ -16,5 +17,6 @@ CSS              0 secs          ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
 
 </div>
