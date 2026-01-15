@@ -20,3 +20,4 @@ jobs:
           SHOW_TOTAL: false
           SHOW_PROFILE_VIEWS: true
           SHOW_TOTAL_CODE_TIME: true
+          SHOW_EDITORS: true
