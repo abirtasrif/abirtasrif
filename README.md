@@ -7,12 +7,12 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2026 - To: 20 February 2026
+From: 14 February 2026 - To: 21 February 2026
 
-PHP          1 hr 53 mins          ███████████▓░░░░░░░░░░░░░   47.22 %
-JavaScript   1 hr 25 mins          █████████░░░░░░░░░░░░░░░░   35.89 %
-HTML         29 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-CSS          10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+JavaScript   1 hr 25 mins          ██████████████████▒░░░░░░   72.83 %
+HTML         29 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
+PHP          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
