@@ -7,10 +7,12 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
-JSON         14 mins               ████████████████████████░   96.08 %
-JavaScript   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+JSON         25 mins               █████████████░░░░░░░░░░░░   51.73 %
+Astro        22 mins               ███████████░░░░░░░░░░░░░░   44.53 %
+Git Config   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+JavaScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
