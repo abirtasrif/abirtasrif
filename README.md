@@ -6,12 +6,12 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2026 - To: 24 October 2026
+From: 18 October 2026 - To: 25 October 2026
 
-PHP          21 mins               ██████████████░░░░░░░░░░░   55.65 %
-JavaScript   12 mins               ████████▒░░░░░░░░░░░░░░░░   32.67 %
-INI          3 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-PowerShell   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Markdown     23 mins               ███████████▓░░░░░░░░░░░░░   47.13 %
+PHP          21 mins               ███████████░░░░░░░░░░░░░░   43.70 %
+INI          3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+PowerShell   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
