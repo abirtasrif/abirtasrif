@@ -6,13 +6,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2026 - To: 30 October 2026
+From: 24 October 2026 - To: 31 October 2026
 
-JavaScript    1 hr 31 mins          ████████░░░░░░░░░░░░░░░░░   31.56 %
-Markdown      59 mins               █████░░░░░░░░░░░░░░░░░░░░   20.55 %
-CSS           42 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-Bash          40 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
-Other         22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+JavaScript    1 hr 39 mins          █████░░░░░░░░░░░░░░░░░░░░   20.49 %
+Astro         1 hr 12 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
+CSS           1 hr 9 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+PHP           1 hr 2 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+Markdown      59 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
 ```
 
 <!--END_SECTION:waka-->
